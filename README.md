@@ -1,6 +1,7 @@
 # Learning-Paths
 
 This is an alternative frontend for [Tinkerhub-Learning-Paths](https://github.com/tinkerhub/TinkerHub-Learning-Paths)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1a842584-b2c2-4c03-bcff-0e3c0d8477a0/deploy-status)](https://app.netlify.com/sites/new-learning-paths/deploys)
 
 ### Why?
 
