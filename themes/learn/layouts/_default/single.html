@@ -12,9 +12,17 @@
           <h1 class="title is-1">
             {{ .Title }}
           </h1>
-          <h6 class="subtitle is-6">
-            {{ .Summary }}
-          </h6>
+          {{if .Params.authors}}
+          <small>Curated By</small>
+              <div class="is-flex">
+                    {{range $author := .Params.authors}}
+                    {{$url := printf "%s" $author | printf "%s%s" "https://github.com/" | printf "%s"}}
+                    {{$imageurl := printf "%s" ".png?size=48" | printf "%s%s" $url}}
+                    <!-- inline styling because bulma helper classes doesnt seem to work and i don't have time to debug this   -->
+                    <a href={{$url}} style="margin: 0.2em;"><figure class="image is-48x48"><img class="is-rounded" src={{$imageurl}} alt={{ printf "%s" $author | printf "%s%s" "Avatar of " }}></figure></a>
+                    {{end}}
+              </div>
+            {{end}}
         </div>
       </div>
       <div style="margin-top: 1em;">
