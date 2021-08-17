@@ -2,7 +2,7 @@
 title: Github Actions
 date: 2021-08-06T05:17:58+05:30
 tags: ["devops"]
-authors: []
+authors: ["hackedak"]
 draft: false
 ---
 Github actions is a service by github which helps you in customising and automating software development workflows. It helps you to orchestrate any workflows through events. Github also supports CI/CD. All these functionalities can be configured in the project repository itself.
