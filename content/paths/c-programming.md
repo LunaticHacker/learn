@@ -134,12 +134,12 @@ Programs that are created with C run very quickly.
 
 ## Tutorials
 
-* <https://www.geeksforgeeks.org/c-programming-language/>
-* <https://www.javatpoint.com/c-programming-language-tutorial>
-* <https://www.tutorialspoint.com/cprogramming/index.htm>
-* <https://www.programiz.com/c-programming>
-* <https://www.w3schools.in/c-tutorial/>
-* <https://www.learn-c.org/>
+- [Geeks for Geeks](https://www.geeksforgeeks.org/c-programming-language)
+- [JavaPoint](https://www.javatpoint.com/c-programming-language-tutorial)
+- [TutorialsPoint](https://www.tutorialspoint.com/cprogramming/index.htm)
+- [Programiz](https://www.programiz.com/c-programming)
+- [W3-schools](https://www.w3schools.in/c-tutorial/)
+- [learn-C-org](https://www.learn-c.org/)
 
 ## Apps
 

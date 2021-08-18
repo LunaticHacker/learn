@@ -62,24 +62,21 @@ You can learn cybersecurity as a complete beginner. You should familiarise to us
 
 ## Resources
 
-* Online Courses
+## Online Courses
 
-  * <https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/>
-  * <https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst>
-  * <https://www.edx.org/course/cybersecurity-fundamentals>
-* Blogs
+  - [Udemy(Paid)](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1)
+  - [Coursea IBM cybersecurity certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
+  - [Edx CyberSecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
+  - This section needs more free resourses, feel free to [contribute](https://github.com/LunaticHacker/learn/pulls)
 
-  * <https://www.sitelock.com/blog/>
-  * <https://blog.threatpress.com/>
-  * <https://www.cm-alliance.com/cybersecurity-blog/cybersecurity-chaos-malware-targets-wordpress-websites>
-* Tutorials
+## Blogs
+  - [Sitelock](https://www.sitelock.com/blog)
+  - [Threatpress](https://blog.threatpress.com)
+  - [cm-alliance](https://www.cm-alliance.com/cybersecurity-blog)
 
-  * <https://www.javatpoint.com/cyber-security-tutorial>
-  * <https://www.youtube.com/watch?v=PlHnamdwGmw>
-  * <https://www.w3schools.com/cybersecurity/index.php>
-  * <https://www.youtube.com/watch?v=qiQR5rTSshw>
-* Apps
+## Tutorials
 
-  * <https://play.google.com/store/apps/details?id=net.davdayanandvihar.cybersecurityapp&hl=en_IN&gl=US>
-  * <https://play.google.com/store/apps/details?id=com.udemy.android&hl=en_IN&gl=US>
-  * <https://play.google.com/store/apps/details?id=com.briox.riversip.rnd.cybersecurity&hl=en_IN&gl=US>
+  - [JavaPoint](https://www.javatpoint.com/cyber-security-tutorial)
+  - [SimpliLearn](https://www.youtube.com/watch?v=PlHnamdwGmw)
+  - [W3Schools](https://www.w3schools.com/cybersecurity/index.php)
+  - [Freecodecamp](https://www.youtube.com/watch?v=qiQR5rTSshw)
