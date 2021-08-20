@@ -4,7 +4,7 @@ date: 2021-08-04T05:26:58+05:30
 category: other
 tags : ["other"]
 authors: ["JobinBiju"]
-draft: false
+draft: true
 ---
 The Internet of Things (IoT) 🤖 describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the 🌐 internet. The send/received data can be used to perform several automations.
 
