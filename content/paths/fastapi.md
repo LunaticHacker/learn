@@ -1,7 +1,6 @@
 ---
 title: FastAPI
 date: 2021-08-04T05:16:59+05:30
-feautured_image: images/fastapi.png
 tags: ["framework"]
 authors: ["thomasajai001"]
 draft: false

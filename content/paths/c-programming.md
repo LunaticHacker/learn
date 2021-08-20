@@ -1,7 +1,6 @@
 ---
 title: C programming
 date: 2021-08-06T13:35:55+05:30 
-feautured_image: images/angular.png
 tags: ["language"]
 authors: ["Arjunsathyan"]
 draft: false

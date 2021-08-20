@@ -2,7 +2,6 @@
 title: Deep Learning
 date: 2021-08-04T05:16:58+05:30
 category: ai-ml
-feautured_image: images/deep-learning.jpg
 tags: ["ai-ml"]
 authors: ["abhinavk001"]
 draft: false

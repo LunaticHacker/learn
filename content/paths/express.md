@@ -1,7 +1,6 @@
 ---
 title: Express.js
 date: 2021-08-04T05:16:58+05:30
-feautured_image: images/ExpressJS.jpg.png
 tags: ["framework"]
 authors: ["JeffinGBenny"]
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: CyberSecurity
 date: 2021-08-06T13:35:55+05:30
-feautured_image: images/CyberSecurity.jpg
 tags: ["other"]
 authors: ["gauthamkrishna1312"]
 mainpage: false

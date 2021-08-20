@@ -1,8 +1,6 @@
 ---
 title: Flask
 date: 2021-08-05T05:16:58+05:30
-category: framework
-feautured_image: images/flask.jpg
 tags: ["framework"]
 authors: ["Christima-Mary-S","GopikrishnanSasikumar"]
 draft: false

@@ -3,7 +3,7 @@ title: Django for Web Development🐍
 date: 2021-04-12T02:09:49+05:30
 tags: ["framework"]
 authors: ["irenekurien","gladson-lalu"]
-draft: true
+draft: false
 ---
 Django is a Python-based free and open-source web framework that follows the model–template–views architectural pattern.
 

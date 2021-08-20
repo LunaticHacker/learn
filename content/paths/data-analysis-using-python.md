@@ -1,7 +1,6 @@
 ---
 title: Data Analysis 📈 using Python 🐍
 date: 2021-04-12T13:35:55+05:30
-feautured_image: images/python.jpeg
 tags: ["other"]
 authors: ["shaji-stark"]
 draft: false

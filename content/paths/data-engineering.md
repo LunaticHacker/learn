@@ -2,7 +2,6 @@
 title: Data Engineering
 date: 2021-05-09T02:28:28+05:30
 category: other
-feautured_image: images/data-engineering.jpg
 tags: ["other"]
 authors: ["Anoop-Viswan"]
 draft: false
