@@ -67,7 +67,6 @@ You can learn cybersecurity as a complete beginner. You should familiarise to us
   - [Udemy(Paid)](https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1)
   - [Coursea IBM cybersecurity certificate](https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst)
   - [Edx CyberSecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
-  - This section needs more free resourses, feel free to [contribute](https://github.com/LunaticHacker/learn/pulls)
 
 ## Blogs
   - [Sitelock](https://www.sitelock.com/blog)
