@@ -1,9 +1,8 @@
 ---
 title: Django for Web Development🐍
 date: 2021-04-12T02:09:49+05:30
-feautured_image: images/Django-logo.png
 tags: ["framework"]
-authors: ["irenekurien"]
+authors: ["irenekurien","gladson-lalu"]
 draft: true
 ---
 Django is a Python-based free and open-source web framework that follows the model–template–views architectural pattern.
@@ -94,12 +93,29 @@ Django [REST framework](https://www.django-rest-framework.org/) is a powerful an
 * [Pyramid](https://trypyramid.com/)
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
-## Steps for doing projects 👩‍💻
+## Resources to assist doing projects 👩‍💻
 
 Some good starting projects:
 
 1. To-Do List
 2. Library management system
 3. An event website for College Fests
+
+### Tutorials 💡
+
+[Build a Basic Poll App](https://docs.djangoproject.com/en/3.2/intro/tutorial01/): Official tutorial provided by Django Documentation 📃 
+
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
+* [Django Web Framework (Python) - MDN-Mozilla:](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+* [Django Tutorials - Real Python](https://realpython.com/tutorials/django/)
+* [Django Framework (3.0) Crash Course Tutorials (Video)](https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
+* [Django Tutorial for Beginners | Full Course (Video)](https://www.youtube.com/watch?v=OTmQOjsl0eg)
+* [Python Django Tutorial (Video)](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+
+## Blogs 📝 
+
+* [Django Central](https://djangocentral.com/django/)
+* [Django Community Blog Posts](https://www.djangoproject.com/community/blogs/)
+* [Simple Is Better Than Complex](https://simpleisbetterthancomplex.com/)
 
 ## HAPPY LEARNING 😍
